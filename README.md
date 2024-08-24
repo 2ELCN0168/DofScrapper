@@ -12,7 +12,7 @@
 **Disclaimer :**
 
 Je n'ai pas à l'heure actuelle de connaissances très poussées en Python. 95% de ce code m'a été fourni grâce à ChatGPT car je voulais uniquement quelque chose de fonctionnel et rapide. Le code est certainement sale et mal organisé, mais il fonctionne plutôt bien.
-**Je compte refaire le projet de zéro d'ici quelques mois, lorsque j'aurai appris à faire du scrapping efficacement. En attendant, il faut se contenter de cette version.
+**Je compte refaire le projet de zéro d'ici quelques mois, lorsque j'aurai appris à faire du scrapping efficacement. En attendant, il faut se contenter de cette version.**
 
 ## Fonctionnement 
 
