@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://static.ankama.com/dofus/www/game/items/200/12771.png" />
+  <img src="https://static.ankama.com/dofus/ng/modules/mmorpg/discover/illu-block3.png" />
 </p>
 
 # DofScrapper
